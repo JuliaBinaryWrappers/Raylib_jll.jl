@@ -1,107 +1,107 @@
 [[Raylib]]
 arch = "aarch64"
-git-tree-sha1 = "c748067061041edbc24bd9baec81a248f664ea5d"
+git-tree-sha1 = "9f6f781f4003016851ff7d329d2af9bbe8780453"
 os = "macos"
 
     [[Raylib.download]]
-    sha256 = "115eaf8f3d86c0dd2122a383041948379e75ec6ffdaf58db5916a9c080d177ce"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "2c50b7f6d0319aeb463eabff7b86866347f98e2931a48f18365be254795b2bc0"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.aarch64-apple-darwin.tar.gz"
 [[Raylib]]
 arch = "aarch64"
-git-tree-sha1 = "e8bbca19f3a582441877f8926226db606733dc9b"
+git-tree-sha1 = "64bf30ed2fb5053e24d0baa9e2037a082e2c56c5"
 libc = "glibc"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "fd0115ceaaefb056cf9af042bb299039d9b5280265b13ffe50b5bffd583f9351"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "41cac998e87cd16cb910c35f9282c25ea40caacf9c007750aadc6ff7cdded826"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.aarch64-linux-gnu.tar.gz"
 [[Raylib]]
 arch = "aarch64"
-git-tree-sha1 = "61f30d2db7046cea17f024a759a04ff8fc3b296d"
+git-tree-sha1 = "f8e8f7d04b770ff7b94c6534e3dedb800fce2a06"
 libc = "musl"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "e7b200e35648e56181ca0098872efba39100336ac10810c2225e748f5a70b068"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "496715d704d1b2a9d117ac3524f334683fce3625d1ddcbb6911864a4abb3b9d7"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.aarch64-linux-musl.tar.gz"
 [[Raylib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "25e0b6c481029f595a083586937440508ed4ae39"
+git-tree-sha1 = "d2536cd4c6c78f7026653b384c7c62486356f365"
 libc = "glibc"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "53643ed44da172db83afa96032d5b7f5edecb90554fe33b7c72f07418ac1167c"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "02774f806a85e92475917f060ab6a6876d881a6c3b9a7eda518247934c2fba0d"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[Raylib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0c51e78a98d498a06cb20ca4da748796d2425f4c"
+git-tree-sha1 = "ad0c185f3895fedf13cb900b5f8a73677dc6ae75"
 libc = "musl"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "04f8d0b5ce6a40dd517fb6dd812c0f32769876410bc87a372563adec89ee3cd9"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "f9924a4049fd1955deb40173ca3409083921e2e21945d0fc27c661daa70e6ff9"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.armv7l-linux-musleabihf.tar.gz"
 [[Raylib]]
 arch = "i686"
-git-tree-sha1 = "2f1d520bb9c6b1a723aba792428faf5ac059a047"
+git-tree-sha1 = "eaab363a883d5c781d2dbea50e468f6c367754f5"
 libc = "glibc"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "497a1f6fc2334f22bf4b4b5b879e0587e96d88f890d336b80ad5a59a41d37ab8"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "5eee58f67f8f610d2e4aead7cf57967c9ded60cace96a1aefd6f7d9c9a6ca79a"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.i686-linux-gnu.tar.gz"
 [[Raylib]]
 arch = "i686"
-git-tree-sha1 = "c988da1221596b932954fa2c025f230f9654b3d2"
+git-tree-sha1 = "0f4e85b5c89862d00cb74a62f35d3bcb65f80fcf"
 libc = "musl"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "d2694fde2c066bd8f1e6e641fe2570c8f2f62d4e4110b1ca4ee304643326699b"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.i686-linux-musl.tar.gz"
+    sha256 = "4de6cf8ec7f9f53801df0ed78139ec59ec900fc49aba8a79658af54717b2e3c8"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.i686-linux-musl.tar.gz"
 [[Raylib]]
 arch = "powerpc64le"
-git-tree-sha1 = "01659484afc7cf6de8c3299e85352e338c37ebfa"
+git-tree-sha1 = "d3f3a5d3cd5c369420fd8c602ebb354cd5aa1f0a"
 libc = "glibc"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "78f2bc915c91055f0bb9635f62625f2ee5deef570cb1a353e7f197a566a8e1e3"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "3f4fb50ac0a4709ac254a6ae4b121dc09a237142f3706b7628d90af3ae2fb8da"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.powerpc64le-linux-gnu.tar.gz"
 [[Raylib]]
 arch = "x86_64"
-git-tree-sha1 = "a48ab448aae3b846374c15d8990b6c9692c9d232"
+git-tree-sha1 = "8e5f081aee50159b8c0edbdecff50862c44a037b"
 os = "macos"
 
     [[Raylib.download]]
-    sha256 = "ec2aa1658281a28e2647803e57e4aab61fdac00ffde943ede8db816e2f7f05be"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "137e8e56c625fe84c2bfb1d4f5fb334127f52ed87dfe1513a27c9b0585ee7f6e"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.x86_64-apple-darwin.tar.gz"
 [[Raylib]]
 arch = "x86_64"
-git-tree-sha1 = "980918fdfd09f0864ecd43c74715a36b6be97d65"
+git-tree-sha1 = "19e7b410409bb3a93952f8cb119775e7f14fee6a"
 libc = "glibc"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "01854b532e3a194090799cc1a51af837af748c96c34632bed301455c0f11aab4"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "f5f8e881adb912903bd7f46c63205b580c03f5b6c8f445f8a5314b865dd769ab"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.x86_64-linux-gnu.tar.gz"
 [[Raylib]]
 arch = "x86_64"
-git-tree-sha1 = "76883f1d7498352c0c2be0ad40bbb0f841934d10"
+git-tree-sha1 = "9455ad161eba453a68fc6d2edf1b4d68ffdf3b78"
 libc = "musl"
 os = "linux"
 
     [[Raylib.download]]
-    sha256 = "96bf4af04fee9c04180aa51685b7fa63f9d0cd94f745b63132114414392364dd"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "5690ce4fd8243e17b57d37f834283ce30fedc4e92b5480704bda74dd8b89c61b"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.x86_64-linux-musl.tar.gz"
 [[Raylib]]
 arch = "x86_64"
-git-tree-sha1 = "18becee9625eef480cc05b1797cd917462309c5f"
+git-tree-sha1 = "f4fe8dd9de3cc1e2ee53626bc2e256ec5cb84fe6"
 os = "freebsd"
 
     [[Raylib.download]]
-    sha256 = "178797cfc368881b99f8e26a51852b52d43f86802f9f3d2b179996a412d20c5a"
-    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+0/Raylib.v4.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "505595f1ae76e97c43a66c22e906a558e287de49291e5987af9565de0e7d5790"
+    url = "https://github.com/JuliaBinaryWrappers/Raylib_jll.jl/releases/download/Raylib-v4.0.0+1/Raylib.v4.0.0.x86_64-unknown-freebsd.tar.gz"

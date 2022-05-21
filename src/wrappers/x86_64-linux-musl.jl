@@ -2,7 +2,6 @@
 export libraylib
 
 using alsa_jll
-using Mesa_jll
 using Xorg_libX11_jll
 using Xorg_libXrandr_jll
 using Xorg_libXi_jll
@@ -12,7 +11,7 @@ using GLFW_jll
 JLLWrappers.@generate_wrapper_header("Raylib")
 JLLWrappers.@declare_library_product(libraylib, "libraylib.so.400")
 function __init__()
-    JLLWrappers.@generate_init_header(alsa_jll, Mesa_jll, Xorg_libX11_jll, Xorg_libXrandr_jll, Xorg_libXi_jll, Xorg_libXcursor_jll, Xorg_libXinerama_jll, GLFW_jll)
+    JLLWrappers.@generate_init_header(alsa_jll, Xorg_libX11_jll, Xorg_libXrandr_jll, Xorg_libXi_jll, Xorg_libXcursor_jll, Xorg_libXinerama_jll, GLFW_jll)
     JLLWrappers.@init_library_product(
         libraylib,
         "lib/libraylib.so",
